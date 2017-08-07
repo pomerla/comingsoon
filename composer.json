@@ -1,13 +1,13 @@
 {
-	"description": "The MyPhpFort A short description of what your package does",
-	"name": "myphpfort/framework",
+	"description": "The comingsoon A short description of what your package does",
+	"name": "pomerla/comingsoon",
 	"type": "project",
 	"homepage": "http://moroz.rv.ua",
 	"license": "MIT",
 	"support": {
 		"forum": "http://moroz.rv.ua/",
 		"wiki": "http://moroz.rv.ua",
-		"source": "https://github.com/pomerla/MyPhpFort"
+		"source": "https://github.com/pomerla/comingsoon"
 	},
 	"require": {
 		"php": ">=5.3.7"

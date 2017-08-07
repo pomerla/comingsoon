@@ -43,9 +43,13 @@ Either run
 composer create-project pomerla/comingsoon
 ```
 
-After installation correct 
+After installation correct config
 ```
-config js/init.js and MailChimp Signup Form in index.html page.
+ js/init.js 
+```
+and 
+```
+ MailChimp Signup Form in index.html page.
 ```
 
 ## Release Information
