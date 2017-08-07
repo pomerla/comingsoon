@@ -43,28 +43,36 @@ Either run
 composer create-project pomerla/comingsoon
 ```
 
-After installation correct config
+<strong>After installation correct config</strong>
 ```
  js/init.js 
 ```
-and 
+<strong>and</strong>
 ```
  MailChimp Signup Form in index.html page.
 ```
 
 ## Release Information
+<a href="https://github.com/pomerla/comingsoon/releases">Release</a>
 
 ## Creators
+<ul>
+  <li>Email:admin@moroz.rv.ua</li>
+  <li>Home:<a href="http://moroz.rv.ua/">moroz.rv.ua</a></li>
+  <li>GitHub:<a href="https://github.com/pomerla">github.com/pomerla</a></li>
+</ul>
 
 ## Settings
 
-MailChimp Signup Form in index.html page
+<strong>MailChimp Signup Form in index.html page</strong><br/>
+<strong>date settings js/init.js</strong><br/>
+```
+ var finalDate = '2017/12/31';
+```
 
-date settings js/init.js<br/>
-var finalDate = '2017/12/31';
-
-map settings js/init.js <br/>
-map = new GMaps({
+<strong>map settings js/init.js</strong> <br/>
+```
+    map = new GMaps({
       el: '#map', 
       lat: 50.635687,  
       lng: 26.266856, 
@@ -74,6 +82,8 @@ map = new GMaps({
       panControl : false, 
       scrollwheel: false
    });
-   
+```   
 ## Copyright and license
+<a href="https://en.wikipedia.org/wiki/MIT_License">MIT License</a>
+
   
