@@ -9,4 +9,7 @@
 		"wiki": "http://moroz.rv.ua",
 		"source": "https://github.com/pomerla/comingsoon"
 	}
-}
+},
+	"require-dev": {
+		"pomerla/comingsoon": "1.1.*"
+	}
