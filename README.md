@@ -91,6 +91,4 @@ composer create-project pomerla/comingsoon
    });
 ```   
 ## Copyright and license
-<a href="https://en.wikipedia.org/wiki/MIT_License">MIT License</a>
-
-  
+<a href="https://en.wikipedia.org/wiki/MIT_License">MIT License</a>  
