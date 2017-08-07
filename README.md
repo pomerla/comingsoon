@@ -28,7 +28,7 @@
 ## Table of contents
 
 - [Quick start](#quick-start)
-- [Release Information](#release-Information)
+- [Release Information](#release-information)
 - [Settings](#settings)
 - [Creators](#creators)
 - [Copyright and license](#copyright-and-license)
