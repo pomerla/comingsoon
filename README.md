@@ -28,8 +28,8 @@
 ## Table of contents
 
 - [Quick start](#quick-start)
-- [Release Information](#status)
-- [Settings](#settingsd)
+- [Release Information](#release-Information)
+- [Settings](#settings)
 - [Creators](#creators)
 - [Copyright and license](#copyright-and-license)
 
