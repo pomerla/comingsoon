@@ -2,21 +2,21 @@
 
 <p align="center">
   <a href="http://moroz.rv.ua">
-    <img src="http://www.beadingusa.com/images/AlphabetBlocks4.5/SterlingSilverBlockLetterCH901-F.jpg" width=72 height=72>
+    <img src="http://www.beadingusa.com/images/AlphabetBlocks4.5/SterlingSilverBlockLetterCH901-C.jpg" width=72 height=72>
   </a>
 
-  <h3 align="center">comingsoon</h3>
+  <h3 align="center">Comingsoon</h3>
 
   <p align="center">
     Sleek, intuitive, and powerful front-end framework for faster and easier web development.<br />
-	<strong>Not a working version of the system under development.</strong><br />
-<strong>Не рабочий вариант системы в стадии разработки.</strong>
+	Гладкая, интуитивно понятная и мощная интерфейсная среда для более быстрой и легкой веб-разработки.<br />
+	<strong>The working version of the page comingsoon.</strong><br />
+    <strong>Рабочий вариант страницы в стадии разработки.</strong>
     <br>
     <a href="http://moroz.rv.ua"><strong>Explore comingsoon docs &raquo;</strong></a>
     <br>
     <br>
-    <a href="http://moroz.rv.ua">comingsoon Themes</a>
-    &middot;
+    
     <a href="http://moroz.rv.ua">Aleksander Moroz</a>
     &middot;
     <a href="http://moroz.rv.ua">Blog</a>
@@ -34,6 +34,18 @@
 - [Copyright and license](#copyright-and-license)
 
 ## Quick start
+The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
+
+Either run
+
+```
+composer create-project pomerla/comingsoon
+```
+
+After installation correct 
+```
+config js/init.js and MailChimp Signup Form in index.html page.
+```
 
 ## Release Information
 
@@ -59,4 +71,4 @@ map = new GMaps({
    });
    
 ## Copyright and license
-cf   
+  
