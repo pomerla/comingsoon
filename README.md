@@ -30,6 +30,7 @@
 
 - [Quick start](#quick-start)
 - [Release Information](#release-information)
+- [Status](#status)
 - [Settings](#settings)
 - [Creators](#creators)
 - [Copyright and license](#copyright-and-license)
@@ -54,6 +55,12 @@ composer create-project pomerla/comingsoon
 
 ## Release Information
 <a href="https://github.com/pomerla/comingsoon/releases">Release</a>
+
+## Status
+[![Latest Stable Version](https://poser.pugx.org/pomerla/comingsoon/v/stable)](https://packagist.org/packages/pomerla/comingsoon)
+[![Total Downloads](https://poser.pugx.org/pomerla/comingsoon/downloads)](https://packagist.org/packages/pomerla/comingsoon)
+[![Latest Unstable Version](https://poser.pugx.org/pomerla/comingsoon/v/unstable)](https://packagist.org/packages/pomerla/comingsoon)
+[![License](https://poser.pugx.org/pomerla/comingsoon/license)](https://packagist.org/packages/pomerla/comingsoon)
 
 ## Creators
 <ul>
