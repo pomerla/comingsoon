@@ -53,7 +53,7 @@ composer create-project pomerla/comingsoon
  MailChimp Signup Form in index.html page.
 ```
 
-## Release Information
+## Release Information stable
 <a href="https://github.com/pomerla/comingsoon/releases">Release</a>
 
 ## Status
