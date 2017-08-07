@@ -54,7 +54,7 @@ composer create-project pomerla/comingsoon
 ```
 
 ## Release Information
-<a href="https://github.com/pomerla/comingsoon/releases">Release stable</a>
+<a href="https://github.com/pomerla/comingsoon/releases">Release stable 1</a>
 
 ## Status
 [![Latest Stable Version](https://poser.pugx.org/pomerla/comingsoon/v/stable)](https://packagist.org/packages/pomerla/comingsoon)
