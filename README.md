@@ -43,10 +43,10 @@
 
 MailChimp Signup Form in index.html page
 
-date settings js/init.js
+date settings js/init.js<br/>
 var finalDate = '2017/12/31';
 
-map settings js/init.js
+map settings js/init.js <br/>
 map = new GMaps({
       el: '#map', 
       lat: 50.635687,  
