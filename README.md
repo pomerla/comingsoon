@@ -16,7 +16,8 @@
     <a href="http://moroz.rv.ua"><strong>Explore comingsoon docs &raquo;</strong></a>
     <br>
     <br>
-    
+    <a href="http://moroz.rv.ua">Comingsoon Themes</a>
+    &middot;
     <a href="http://moroz.rv.ua">Aleksander Moroz</a>
     &middot;
     <a href="http://moroz.rv.ua">Blog</a>
